@@ -4,6 +4,16 @@ body, html {
     font-family: sans-serif;
 }
 
+/************************** pre-loader ****************************/
+#preloader {
+    background: #000 url(img/circle-loader-gif-2.gif) no-repeat center center;
+    background-size: 10%;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+}
+
 
 /************************** main table ****************************/
 
