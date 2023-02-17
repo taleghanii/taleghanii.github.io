@@ -151,3 +151,52 @@ body, html {
     background: #474747;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.7);
 }
+
+
+/************************** football ****************************/
+#football_winers {
+    background: url('img/football.gif');
+}
+
+#football {
+    background: url('img/bgfootball.jpg');
+}
+
+
+/************************** basketball ****************************/
+#basketball {
+    background: url('img/bgBasket.jpg');
+}
+
+#basket_winers {
+    background: url('img/basket.gif');
+}
+
+
+/************************** volleyball ****************************/
+#volleyball {
+    background: url('img/bgVo.jpg');
+}
+
+#volleyball_winers {
+    background: url('img/voBg.gif');
+}
+
+/************************** chess ****************************/
+#chess {
+    background: url('img/chessBG.jpg');
+}
+
+#chess_winers {
+    background: url('img/cheewiner.gif');
+}
+
+
+/************************** chess ****************************/
+#pingPong {
+    background: url('img/pingIM.jpg');
+}
+
+#pingPong_winers {
+    background: url('img/pingBG.gif');
+}
