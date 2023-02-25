@@ -15,7 +15,6 @@ body, html {
 
 }
 
-
 /******************************** Great text effect ****************************************/
 #h1 {
     animation: text-shadow 1.5s ease-in-out infinite;
