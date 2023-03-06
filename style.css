@@ -19,6 +19,8 @@ body, html {
 #h1 {
     animation: text-shadow 1.5s ease-in-out infinite;
     line-height: 1;
+    background: url('img/main.jpg');
+    padding: 50px;
 }
 
 @keyframes text-shadow {
